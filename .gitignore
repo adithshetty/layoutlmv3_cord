@@ -1,5 +1,4 @@
 cord-v2/train/data-00000-of-00004.arrow
-encoding_dataset_for_llmv3.ipynb
 cord-v2/dataset_dict.json
 cord-v2/test/data-00000-of-00001.arrow
 cord-v2/test/dataset_info.json
@@ -12,3 +11,8 @@ cord-v2/train/state.json
 cord-v2/validation/data-00000-of-00001.arrow
 cord-v2/validation/dataset_info.json
 cord-v2/validation/state.json
+test_dataloader.pkl
+train_dataloader.pkl
+val_dataloader.pkl
+cord-v2-layoutlmv3-base/config.json
+cord-v2-layoutlmv3-base/pytorch_model.bin
